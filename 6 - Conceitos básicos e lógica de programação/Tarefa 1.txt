@@ -1,0 +1,5 @@
+Para diferenciar um paradigma do outro, a ilustração melhor que vem a minha cabeça é uma cozinha. Na linguagem procedural o objetivo é cozinhar seguindo uma receita, seria como seguir passo a passo as instruções da receita: primeiro faça isso, depois aquilo, e assim por diante. Cada passo é uma instrução clara e direta.
+
+Já para o paradigma POO, além disso você pensa mais em organizar a cozinha. Se você usa objetos como panelas, utensílios, e ingredientes, isso é mais parecido com a programação orientada a objetos. Cada objeto tem seu próprio papel e propósito, e você pode interagir com eles de maneiras diferentes.
+
+Na programação procedural, você organiza o código em procedimentos ou funções, assim como seguir uma receita. Cada passo é executado na ordem definida. Já na orientação a objetos, você cria objetos que contêm dados e funcionalidades, e esses objetos interagem entre si.

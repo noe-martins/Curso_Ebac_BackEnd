@@ -1,0 +1,29 @@
+var
+   acordei, tomeiBanho, fizCafe: logico
+
+inicio
+   // Passo 1: Acordei
+   acordei <- verdadeiro
+   escreva("Passo 1: Acordei")
+
+   // Passo 2: Tomei Banho
+   se acordei entao
+      tomeiBanho <- verdadeiro
+      escreva("Passo 2: Tomei Banho")
+   senao
+      escreva("Não tomei banho porque não acordei.")
+
+   // Passo 3: Fiz Café
+   se acordei e tomeiBanho entao
+      fizCafe <- verdadeiro
+      escreva("Passo 3: Fiz Café")
+   senao
+      escreva("Não fiz café porque não acordei ou não tomei banho.")
+
+   // Conclusão
+   se acordei e tomeiBanho e fizCafe entao
+      escreva("Conclusão: Estou pronto para começar o dia!")
+   senao
+      escreva("Conclusão: Algo deu errado no processo.")
+
+fimalgoritmo
